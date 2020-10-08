@@ -29,4 +29,4 @@
 <br />
 <hr/ >
 
-  <img align="left" alt="GeoBrodas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GeoBrodas&show_icons=true&hide_border=true" />
+  <img align="center" alt="GeoBrodas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GeoBrodas&show_icons=true&hide_border=true" />
