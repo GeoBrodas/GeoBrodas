@@ -1,4 +1,4 @@
-### Hey there! I'm Georgey aka GeoBrodas
+### Hey there! I'm Georgey aka [GeoBrodas](https://geobrodas.github.io/iamgeorgey/)
 
 - I'm currently learning electrical engineering.
 - And I'm also a Web Developer.
