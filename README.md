@@ -1,4 +1,4 @@
-### Hey there! I'm Georgey aka [GeoBrodas][website]
+### Hey there! I'm Georgey aka GeoBrodas
 
 - I'm currently learning electrical engineering.
 - And I'm also a Web Developer.
@@ -8,9 +8,9 @@
 
 ### Connect with me on :
 
-[<img align="left" alt="GeoBrodas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://geobrodas.github.io/iamgeorgey/]
-[<img align="left" alt="GeoBrodas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/BrodasGeo]
-[<img align="left" alt="GeoBrodas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/_geobrodas_/?hl=en]
+[<img align="left" alt="GeoBrodas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />].[https://geobrodas.github.io/iamgeorgey/]
+[<img align="left" alt="GeoBrodas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />].[https://twitter.com/BrodasGeo]
+[<img align="left" alt="GeoBrodas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />].[https://www.instagram.com/_geobrodas_/?hl=en]
 
 <br />
 
@@ -27,5 +27,3 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
-
-[website] : https://geobrodas.github.io/iamgeorgey/
