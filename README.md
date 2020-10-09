@@ -2,7 +2,7 @@
 
 - I'm currently learning electrical engineering.
 - And I'm also a Web Developer.
-- Participated on my first HacktoberFest 2020 recently.
+- Participated my first HacktoberFest 2020 recently.
 - Basically I love resolving issues like responsiveness.
 - Fun Fact: I love BasketBall too.
 
@@ -29,4 +29,4 @@
 <br />
 <hr/ >
 
-  <img align="left" alt="GeoBrodas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GeoBrodas&show_icons=true&hide_border=true&theme=onedark" />
+  <img align="center" alt="GeoBrodas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GeoBrodas&show_icons=true&hide_border=true&theme=onedark" />
