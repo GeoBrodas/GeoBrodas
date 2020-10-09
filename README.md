@@ -1,10 +1,10 @@
 ### Hey there! I'm Georgey aka [GeoBrodas](https://geobrodas.github.io/iamgeorgey/)
 
-- I'm currently learning electrical engineering.
-- And I'm also a Web Developer.
-- Participated my first HacktoberFest 2020 recently.
-- Basically I love resolving issues like responsiveness.
-- Fun Fact: I love BasketBall too.
+- 💡I'm currently doing electrical engineering.
+- 🔧And I'm also a Web Developer.
+- 🏆Participated my first HacktoberFest 2020 recently.
+- ✅Basically I love resolving issues like responsiveness.
+- 👀Fun Fact: I love BasketBall🏀 too.
 
 ### Connect with me on :
 
