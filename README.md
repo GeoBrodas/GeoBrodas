@@ -29,4 +29,4 @@
 <br />
 <hr/ >
 
-  <img align="left" alt="GeoBrodas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GeoBrodas&show_icons=true&hide_border=true&theme=onedark" />
+  <a href="https://geobrodas.vercel.app/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=GeoBrodas&show_icons=true&hide_title=true&hide_border=true&theme=radical" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoBrodas&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=radical" /></a>
