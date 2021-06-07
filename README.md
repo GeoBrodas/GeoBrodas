@@ -1,10 +1,10 @@
-### Hey there! I'm Georgey aka [GeoBrodas](https://geobrodas.github.io/iamgeorgey/)
+### Hey there! I'm Georgey aka [GeoBrodas](https://geobrodas.vercel.app)
 
-- 💡I'm currently doing electrical engineering.
-- 🔧And I'm also a Web Developer.
-- 🏆Participated my first HacktoberFest 2020 recently.
-- ✅Basically I love resolving issues like responsiveness.
-- 👀Fun Fact: I love BasketBall🏀 too.
+- 💡Web Developer && Engineer.
+- 🔧Writes technical articles @freeCodeCamp.
+- 🔥Tech Stack - NextJS, ReactJS, ChakraUI, MongoDB, Express.
+- ✅I love to build new projects and connect with people around.
+- 👀Fun Fact: I'm a huge basketball fan.
 
 ### Connect with me on :
 
