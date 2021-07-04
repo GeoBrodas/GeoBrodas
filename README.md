@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Georgey V B</h1>
 <h3 align="center">A self-taught Web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geobrodas" alt="geobrodas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geobrodas&theme=radical" alt="geobrodas" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/brodasgeo" target="blank"><img src="https://img.shields.io/twitter/follow/brodasgeo?logo=twitter&style=for-the-badge" alt="brodasgeo" /></a> </p>
 
@@ -31,8 +31,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/geobrodas"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="geobrodas" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geobrodas&show_icons=true&locale=en&layout=compact" alt="geobrodas" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geobrodas&show_icons=true&locale=en&layout=compact&theme=radical" alt="geobrodas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geobrodas&show_icons=true&locale=en" alt="geobrodas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geobrodas&show_icons=true&locale=en&theme=radical" alt="geobrodas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geobrodas&" alt="geobrodas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geobrodas&theme=radical" alt="geobrodas" /></p>
