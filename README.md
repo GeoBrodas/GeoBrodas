@@ -15,7 +15,7 @@
 
 - 📫 Send me an Email @ **geobro2310@gmail.com**
 
-- ⚡ Fun fact **I'm love Basketball🏀**
+- ⚡ Fun fact **I love Basketball🏀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
