@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/brodasgeo" target="blank"><img src="https://img.shields.io/twitter/follow/brodasgeo?logo=twitter&style=for-the-badge" alt="brodasgeo" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 Currently hacking on **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://georgey.codes/projects](https://georgey.codes/projects)
 
 - 📝 I regulary write articles on https://geobrodas.hashnode.dev and https://www.freecodecamp.org/news/author/georgey/
 
-- 💬 Ask me about **React, Express, APIs, The Web**
+- 💬 Love to meet new developers, collaborate and seek insights.
 
-- 📫 How to reach me **geobro2310@gmail.com**
+- 📫 Send me an Email @ **geobro2310@gmail.com**
 
-- ⚡ Fun fact **I'm a Baller🏀**
+- ⚡ Fun fact **I'm love Basketball🏀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
