@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://georgey.codes/projects](https://georgey.codes/projects)
 
-- 📝 I regulary write articles on https://geobrodas.hashnode.dev and https://www.freecodecamp.org/news/author/georgey/
+- 📝 I write articles on https://geobrodas.hashnode.dev and https://www.freecodecamp.org/news/author/georgey/
 
 - 💬 Love to meet new developers, collaborate and seek insights.
 
