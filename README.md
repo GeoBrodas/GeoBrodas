@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/brodasgeo" target="blank"><img src="https://img.shields.io/twitter/follow/brodasgeo?logo=twitter&style=for-the-badge" alt="brodasgeo" /></a> </p>
 
-- 🌱 Currently hacking on **NextJS**
+- 🌱 Currently hacking on **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://georgey.codes/projects](https://georgey.codes/projects)
 
