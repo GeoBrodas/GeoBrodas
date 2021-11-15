@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/68821192/141680480-80e92695-ed21-4e24-8638-3a3b0e2614b7.gif" width="2000" height="400" ></img>
+<img src="https://user-images.githubusercontent.com/68821192/141716698-45aacf9f-39ab-44bd-84a6-3517fd14ccef.gif" width="2000" height="400" ></img>
 
 <h2>Hi 👋, I'm Georgey V B</h2>
 <h3>A self-taught Web developer from India</h3>
