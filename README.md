@@ -11,6 +11,9 @@ const geobrodas = {
   learning: "Flutter", "Blockchain", "Content creation"
 }
 ```
+- I write technical articles on [Hashnode](https://geobrodas.hashnode.dev/), [Dev](https://dev.to/geobrodas), and [freeCodeCamp](https://www.freecodecamp.org/news/author/georgey/) 
+- Wild dream? - get into content creation one day
+
 
 ![Profile views](https://gpvc.arturio.dev/geobrodas)
 [![Twitter: BrodasGeo](https://img.shields.io/twitter/follow/BrodasGeo?style=social)](https://twitter.com/BrodasGeo)
