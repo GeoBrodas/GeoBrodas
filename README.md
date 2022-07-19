@@ -6,7 +6,7 @@ const geobrodas = {
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, NextJs, Tailwind, Cypress],
   hobbies: ["basketball", "technical writing", "anime"],
-  learning: "Flutter", "Blockchain", "Content creation"
+  learning: ["Flutter", "Blockchain", "Content creation"]
 }
 ```
 - I write technical articles on [Hashnode](https://geobrodas.hashnode.dev/), [Dev](https://dev.to/geobrodas), and [freeCodeCamp](https://www.freecodecamp.org/news/author/georgey/) 
